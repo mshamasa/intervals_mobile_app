@@ -17,7 +17,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "squats and squash",
+      "bundleIdentifier": "squatsnsquash",
       "buildNumber": "1.0.0"
     }
   }
