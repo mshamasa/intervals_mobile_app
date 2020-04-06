@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
   ButtonContainer: {
     flex: 1,
     marginTop: 100,
-    marginBottom: -100,
+    marginBottom: -50,
     justifyContent: "center"
   }
 });
